@@ -1,0 +1,1 @@
+This repository is a small test fixture containing 10 plain-text files (83 bytes total) arranged across several nested and empty directories, apparently used to exercise file-inventory and directory-traversal tooling.
